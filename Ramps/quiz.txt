@@ -1,0 +1,60 @@
+1. Which of the following expressions represent the normal force of an object on a ramp?
+a. mgsin£c
+b. mgcos£c
+c. gcos£c
+d. gsin£c
+b. mgcos£c
+2. Which surface is acceleration measured on?
+a. x-component of ramp
+b. y-component of ramp
+c. sliding surface
+d. surface perpendicular to sliding surface
+c. sliding surface
+3. As the angle increases, how does the acceleration change?
+a. increases
+b. decreases
+c. does not change
+d. become 0
+a. increases
+4. As the angle increases, how does the force of friction change?
+a. increases
+b. decreases
+c. does not change
+d. become 0
+b. decreases
+5. Which of the following expressions represent the sliding force of an object on a ramp?
+a. mgsin£c
+b. mgcos£c
+c. gcos£c
+d. gsin£c
+a. mgsin£c
+6. If acceleration is negative without applied force and without initial velocity, what does it mean?
+a. the object will slide upwards
+b. the object will slide downwards
+c. the object will not move
+d. the object will diminish
+c. the object will not move
+7. A 2.5kg block rests on a 0.3-£gplane inclined at 15 degrees to the horizontal. What will happen?
+a. the object will slide upwards
+b. the object wlll slide downwards
+c. the object will not move
+d. the object will diminish
+c. the object will not move
+8. A 30kg box is pushed up a 40-degree, 0.8m high, 0.8-£gramp with a force of 300N from rest. Final speed = ?
+a. 6.4m/s
+b. 1.6m/s
+c. 3.2m/s
+d. 0m/s
+c. 3.2m/s
+9. A 50kg box accelerates at 2m/s2 down a 13.4-degree ramp with 131N force applied downwards. £g = ?
+a. 0.304
+b. 0.950
+c. 0.673
+d. 0.135
+a. 0.304
+10.A 20kg box slides at 1.26m/s down a 11.9-degree ramp & reaches v=2.23m/s [down] in 0.75s, £g=0.257, Fapp = ?
+a. 34.8N[UP]
+b. 34.8N[DOWN]
+c. 164.0N[UP]
+d. 164.0N[DOWN]
+b. 34.8N[DOWN]
