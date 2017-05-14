@@ -8,4 +8,4 @@ Inclined-to-Learn is an interactive program in which users can investigate how d
 The intention of the application is to provide students with better understanding on the concept of ramps.
 
 ## Instructions
-Execute main.jar
+Execute main.jar or run guirenee.class (i.e. java guirenee)
